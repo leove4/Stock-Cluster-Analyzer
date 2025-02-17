@@ -20,6 +20,10 @@
 - **Clustering visualization:**  
   Generate a dendrogram of stock clusters using Riskfolio.
 
+> **Note:**  
+> When choosing stocks, make sure the time period corresponds to the available price data. For example for the time period 2015-01-01 to 2025-01-01 make sure you pick a stock that IPO'd before 2015 or it will not be displayed on the graph.
+
+
 ## Installation
 
 1. **Clone the Repository:**
