@@ -2,7 +2,13 @@
 
 - A Python-based tool to analyze stock clustering based on @quantscience_ (X) approach, made ready to use with a tkinter UI.
 - Helps you to build a portfolio with uncorrelated assets
-  
+
+## Result Example
+### On the 2022-2025 time period :
+![example](Figure_2.png)
+
+- here we can clearly see that General Dynamics $GD, Northrop Grumman $NOC and Lockheed Martin $LMT (US defense stocks) are highly correlated together.
+
 ## Features
 
 - **Ticker stock selection:**  
