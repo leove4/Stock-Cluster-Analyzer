@@ -4,7 +4,7 @@
 - Helps you to build a portfolio with uncorrelated assets
 
 ## Result Example
-### On the 2022-2025 time period :
+### Over the 2022-2025 time period :
 ![example](Figure_2.png)
 
 - here we can clearly see that General Dynamics $GD, Northrop Grumman $NOC and Lockheed Martin $LMT (US defense stocks) are highly correlated together.
