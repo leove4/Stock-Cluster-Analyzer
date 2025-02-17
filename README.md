@@ -1,7 +1,8 @@
 # Stock-Cluster-Analyzer
 
-A Python-based tool to analyze stock clustering based on @quantscience_ (X) approach, made ready to use with a tkinter UI.
-
+- A Python-based tool to analyze stock clustering based on @quantscience_ (X) approach, made ready to use with a tkinter UI.
+- Helps you to build a portfolio with uncorrelated assets
+  
 ## Features
 
 - **Ticker stock selection:**  
